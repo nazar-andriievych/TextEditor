@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85E9658F-FF23-4807-87BA-0B03E7765EA8}|TextEditor\\TextEditor.vcxproj|C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\TextEditor\\TextEditor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85E9658F-FF23-4807-87BA-0B03E7765EA8}|TextEditor\\TextEditor.vcxproj|solutionrelative:TextEditor\\TextEditor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{85E9658F-FF23-4807-87BA-0B03E7765EA8}|TextEditor\\TextEditor.vcxproj|C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\TextEditor\\TextEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85E9658F-FF23-4807-87BA-0B03E7765EA8}|TextEditor\\TextEditor.vcxproj|solutionrelative:TextEditor\\TextEditor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TextEditor.c",
-              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\TextEditor\\TextEditor.c",
-              "RelativeDocumentMoniker": "TextEditor\\TextEditor.c",
-              "ToolTip": "C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\TextEditor\\TextEditor.c",
-              "RelativeToolTip": "TextEditor\\TextEditor.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "Title": "TextEditor.cpp",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\TextEditor\\TextEditor.cpp",
+              "RelativeDocumentMoniker": "TextEditor\\TextEditor.cpp",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0437\u0430\u0440\\source\\repos\\TextEditor\\TextEditor\\TextEditor.cpp",
+              "RelativeToolTip": "TextEditor\\TextEditor.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-22T07:52:15.856Z",
               "EditorCaption": ""
             }
